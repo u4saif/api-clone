@@ -1,7 +1,7 @@
 {
-  "name": "mock-api",
-  "version": "1.0.0",
-  "description": "API Mocker Light weight  NPM Package to Transform any input as Server Mock API Response ",
+  "name": "mock-any",
+  "version": "1.0.1",
+  "description": "Mock-Any Light weight  NPM Package to Transform any input as Server Mock API Response ",
   "main": "index.js",
   "type": "module",
   "scripts": {
