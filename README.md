@@ -3,7 +3,8 @@
 **api-clone**  💡Light weight NPM Package To Transform any input as Server Mock API Response.
 
 
-# Usage 
+
+# Usage [👉DEMO LINK](https://codesandbox.io/p/devbox/rstsjj)
 - In the code below after importing it calling the function 👉 **get( OUTPUT_DATA, DELAY_IN_SECONDS)** 
 
 - OUTPUT will be returning **Observable** that can be subscrib to get the response after defined delay. ✅
