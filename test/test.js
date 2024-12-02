@@ -1,7 +1,7 @@
-import response from "mock-api";
+const  mockAny = require("mock-any");
 
 console.log("Test file running ");
 
-response({"ss":"hello"},3).subscribe((response)=>{
+mockAny({"ss":"hello"},3).subscribe((response)=>{
     console.log("response",response);
 })
