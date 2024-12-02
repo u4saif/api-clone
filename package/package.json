@@ -1,24 +1,24 @@
 {
   "name": "api-clone",
-  "version": "1.0.1",
-  "description": "api-clone Light weight  NPM Package to Transform any input as Server Mock API Response ",
+  "version": "1.0.3",
+  "description": "api-clone Light weight  typescript based Package to Transform any input as Server Mock API Response ",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
   "scripts": {
-    "build":"tsup",
+    "build": "tsup",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/u4saif/mock-api.git"
+    "url": "git+https://github.com/u4saif/api-clone.git"
   },
   "author": "Shaikh Saifuddin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/u4saif/mock-api/issues"
+    "url": "https://github.com/u4saif/api-clone/issues"
   },
-  "homepage": "https://github.com/u4saif/mock-api#readme",
+  "homepage": "https://github.com/u4saif/api-clone#readme",
   "dependencies": {
     "rxjs": "^7.8.1"
   },
