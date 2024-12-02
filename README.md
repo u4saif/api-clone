@@ -1,6 +1,6 @@
-#  Mock-Any ( mock-any)
+#  api-clone [For Type Script based projects]
 
-**mock-any**  💡Light weight NPM Package To Transform any input as Server Mock API Response.
+**api-clone**  💡Light weight NPM Package To Transform any input as Server Mock API Response.
 
 
 # Usage 
@@ -10,7 +10,7 @@
 
 
 ```javascript
-import get from "mock-any";
+import get from "api-clone";
 
 get({"data":"hello"},3).subscribe((Data)=>{    console.log("response",Data);
 })
